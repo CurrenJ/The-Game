@@ -1,0 +1,6 @@
+{
+"text": ["\"Unrecognized command.\"<br>Did you really think that would work?", "1em"],
+"image": ["null", "0px"],
+"options1": [{"text" : "\"help\"", "link": "opt4.json"}],
+"options2": []
+}

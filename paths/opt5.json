@@ -1,0 +1,6 @@
+{
+"text": ["\"- - -  K-OS v3.2  - - -<br>This sytem has been modified to support the Kern Systems Lunar Expansion.<br><br>Connection: offline<br>C:\\ (2GB/2GB)\"", "1em"],
+"image": ["null", "0px"],
+"options1": [{"text" : "\"list\"", "link": "opt6.json"}, {"text" : "\"restart\"", "link": "opt2.json"}],
+"options2": []
+}

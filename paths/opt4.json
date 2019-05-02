@@ -1,0 +1,6 @@
+{
+"text": ["\"list - show files in the current directory<br>restart - reboot the machine<br>info - show details about the system\"", "1em"],
+"image": ["null", "0px"],
+"options1": [{"text" : "\"list\"", "link": "opt6.json"}, {"text" : "\"info\"", "link": "opt5.json"}, {"text" : "\"restart\"", "link": "opt2.json"}],
+"options2": []
+}

@@ -1,0 +1,6 @@
+{
+"text": ["You look around and realize that you are no longer in an attic. You are in a small stone room, dimly lit by a fire in a hearth. In front of you, the monitor continues to display its welcome message, although it appears not to be plugged into anything.", "1em"],
+"image": ["null", "0px"],
+"options1": [{"text" : "Type \"help\"", "link": "opt14.json"}, {"text" : "Investigate the fireplace.", "link": "opt16.json"}],
+"options2": []
+}

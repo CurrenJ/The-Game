@@ -1,0 +1,6 @@
+{
+"text": ["As the program runs, the single light in the attic goes out. The computer emits a single \"ding\", despite having no visible speakers. The monitor reads:<br>\"Welcome to The Game :)\"", "1em"],
+"image": ["null", "0px"],
+"options1": [{"text" : "Look around.", "link": "opt13.json"}],
+"options2": []
+}

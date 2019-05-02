@@ -1,0 +1,6 @@
+{
+"text": ["A program begins to run and command outputs scroll past as text fills the screen. The computer's fan sounds as if it is under intense strain. The monitor flickers to black, and soon the single light bulb hanging in the attic begins to flicker as well.", "1em"],
+"image": ["null", "0px"],
+"options1": [{"text" : "Let the program run.", "link": "opt11.json"}, {"text" : "Unplug the computer.", "link": "opt12.json"}],
+"options2": []
+}

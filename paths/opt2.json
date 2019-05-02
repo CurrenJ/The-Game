@@ -1,0 +1,6 @@
+{
+"text": ["The fan on the computer kicks out dust as it whirs to life. A single blinking line appears on the screen, waiting for input.", "1em"],
+"image": ["null", "0px"],
+"options1": [{"text" : "\"...Hello?\"", "link": "opt3.json"}, {"text" : "\"help\"", "link": "opt4.json"}],
+"options2": []
+}
