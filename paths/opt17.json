@@ -1,0 +1,6 @@
+{
+"text": ["Overcome by an overwhelming urge of stupidity and masochism, you stick your hand into the lit fire.<br>You receive second degree burns.", "1em"],
+"image": ["null", "0px"],
+"options1": [{"text" : "Look closer at the fire.", "link": "opt18.json"}, {"text" : "Explore the room further.", "link": "opt33.json"}],
+"options2": []
+}

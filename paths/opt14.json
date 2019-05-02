@@ -1,0 +1,6 @@
+{
+"text": ["You try to type, but the welcome message remains static. It seems you cannot do any further commands while the game is running.", "1em"],
+"image": ["null", "0px"],
+"options1": [{"text" : "\"exit\"", "link": "opt15.json"}, {"text" : "Investigate the fireplace.", "link": "opt16.json"}],
+"options2": []
+}

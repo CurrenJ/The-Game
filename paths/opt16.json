@@ -1,0 +1,6 @@
+{
+"text": ["A brick hearth houses a small but lively fire. There is no obvious source of fuel.", "1em"],
+"image": ["null", "0px"],
+"options1": [{"text" : "Stick your hand in.", "link": "opt17.json"}, {"text" : "Look closer.", "link": "opt32.json"}],
+"options2": [{"text" : "Explore the room further.", "link": "opt33.json"}]
+}

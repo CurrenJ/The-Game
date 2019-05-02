@@ -1,0 +1,6 @@
+{
+"text": ["He interrupts you.<br>\"Hmph. I understand. I'm sorry for my entrance, it's been a very long time since someone like you came through. I'm Earl. I go by Big Earl, though.\"", "1em"],
+"image": ["null", "0px"],
+"options1": [{"text" : "\"BEarl...\"", "link": "opt23.json"}],
+"options2": []
+}
