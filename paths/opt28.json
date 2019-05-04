@@ -1,0 +1,6 @@
+{
+"text": ["As your hand cooks, you hear a loud SLAM. A door that you hadn't noticed hits the stone wall with significant force. A rather sturdy man with a grey beard and lustrous hair stands in the door way. His look of anger disappears as he sees you rolling on the floor, clutching your hand.", "1em"],
+"image": ["null", "0px"],
+"options1": [{"text" : "Please help!", "link": "opt28.json"}],
+"options2": []
+}

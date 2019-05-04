@@ -1,0 +1,6 @@
+{
+"text": ["You dash towards the door, only to collide with the man. You bounce off of his wall-like figure and hit your head on the ground. As you slip into unconsciousness, you feel the man pick you up.", "1em"],
+"image": ["null", "0px"],
+"options1": [{"text" : "Wake up.", "link": "opt25.json"}],
+"options2": []
+}

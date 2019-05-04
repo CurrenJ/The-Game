@@ -1,5 +1,4 @@
-$(function() {
-    function loadOption(option){
+function loadOption(option){
 		$("#text").empty();
 		$("#img").empty();
 		$("#buttons1").empty();
@@ -35,7 +34,8 @@ $(function() {
 		console.log(json); // this will show the info it in firebug console
 		});
 	}
-	
+
+$(function() {
 	loadOption("opt1.json");
 });
 

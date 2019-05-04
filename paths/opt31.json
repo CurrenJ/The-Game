@@ -1,0 +1,6 @@
+{
+"text": ["You step out into a forest. Daylight streams through the canopy and shows a worn path leading out of the room through the trees.", "1em"],
+"image": ["null", "8em"],
+"options1": [{"text" : "Follow the path.", "link": "opt39.json"}, {"text" : "Stray into the trees.", "link": "opt35.json"}],
+"options2": []
+}

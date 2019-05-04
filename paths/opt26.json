@@ -1,0 +1,6 @@
+{
+"text": ["You are in a small, cozy, cottage. You can make out a lake through the window. You are in large armchair, made of what appears to be some kind of animal hide. It's very soft. The man speaks again.\"Sorry for what happened back there... you were quite spooked. It's not too safe in that area at night, so I brought you back to my house. Name's Earl, by the way. Big Earl.\"", "1em"],
+"image": ["null", "0px"],
+"options1": [{"text" : "XXX", "link": "optXX.json"}],
+"options2": []
+}

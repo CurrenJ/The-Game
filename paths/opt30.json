@@ -1,0 +1,6 @@
+{
+"text": ["The man grunts. He speaks with disapproval and brevity:<br>\"You should leave here. Follow the path through the woods. Have haste, you don't want to be in those woods when it gets dark.\"<br>The man leaves before you can say anything. You wish you had gotten his name.", "1em"],
+"image": ["null", "0px"],
+"options1": [{"text" : "Leave the room.", "link": "opt31.json"}],
+"options2": []
+}
