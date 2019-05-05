@@ -1,6 +1,0 @@
-{
-"text": ["You approach the fire and notice that the embers coming off look different than those you've seen before. They have a slight sparkle to them.", "1em"],
-"image": ["null", "0px"],
-"options1": [{"text" : "...touch them.", "link": "opt19.json"}, {"text" : "Put your hand back in the fire.", "link": "opt27.json"}],
-"options2": []
-}

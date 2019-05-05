@@ -1,6 +1,0 @@
-{
-"text": ["While clearing your grandfather's attic, you find an old command line computer.", "1em"],
-"image": ["null", "0px"],
-"options1": [{"text" : "Plug it in.", "link": "opt2.json"}, {"text" : "Leave it.", "link": "opt9.json"}],
-"options2": []
-}

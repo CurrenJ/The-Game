@@ -1,6 +1,0 @@
-{
-"text": ["\"thegame.crn<br>cc.jpg<br>robin.txt\"", "1em"],
-"image": ["null", "0px"],
-"options1": [{"text" : "\"cc.jpg\"", "link": "opt7.json"}, {"text" : "\"robin.txt\"", "link": "opt8.json"}, {"text" : "\"thegame.crn\"", "link": "opt10.json"}],
-"options2": []
-}

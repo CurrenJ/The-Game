@@ -1,6 +1,0 @@
-{
-"text": ["You type \"exit\". Below the welcome message, a second line of text appears that reads:<br><br>\"The game must be completed.\"<br><br>The screen goes black.", "1em"],
-"image": ["null", "0px"],
-"options1": [{"text" : "Investigate the fireplace.", "link": "opt16.json"}],
-"options2": []
-}

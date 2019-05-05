@@ -1,6 +1,0 @@
-{
-"text": ["You wake up in what appears to be a cottage. It's night-time. The man is knitting something in a rocking chair in front of a glittering fireplace. He sees you.<br>\"Hey you, you're finally awake.\"", "1em"],
-"image": ["null", "0px"],
-"options1": [{"text" : "Look around.", "link": "opt26.json"}],
-"options2": []
-}

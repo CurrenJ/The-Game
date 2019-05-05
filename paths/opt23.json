@@ -1,6 +1,0 @@
-{
-"text": ["\"Ah. I see you are a wise man. Well, since the gatekeeper isn't around anymore...I'll get you started. I can't explain much to you now, though. You will have to figure that out on your own. Nobody knows how to win. But I can direct you to people who know more than me. First, you need to get a weapon to protect yourself. Are you more skilled with a sword, or a bow?\"", "1em"],
-"image": ["null", "0px"],
-"options1": [{"text" : "Sword.", "link": "optXX.json"}, {"text" : "Bow.", "link": "optXX.json"}],
-"options2": [{"text" : "Uh...neither?", "link": "optXX.json"}]
-}

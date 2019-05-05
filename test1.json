@@ -1,6 +1,0 @@
-{
-"text": "A soothing sensation falls over you. You feel at ease.",
-"image": ["aloeGB.png", "8em"],
-"options1": [{"text" : "Bottoms up!", "link": "test1.json"}, {"text" : "Take it with you.", "link": "test2.json"}],
-"options2": [{"text" : "Slap Marina again.", "link": "test3.json"}]
-}

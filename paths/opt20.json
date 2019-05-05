@@ -1,6 +1,0 @@
-{
-"text": ["You stand up to look around the room, when you hear a loud SLAM. A door that you hadn't noticed hits the stone wall with significant force. A rather sturdy man with a grey beard and lustrous hair stands in the door way. He growls,<br>\"WHO HAS DISTURBED THE FIRE?\"", "1em"],
-"image": ["null", "0px"],
-"options1": [{"text" : "\"Sorry sir, I just touched it...\"", "link": "opt21.json"}, {"text" : "Run for the door.", "link": "opt24.json"}],
-"options2": []
-}

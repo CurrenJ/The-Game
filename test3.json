@@ -1,6 +1,0 @@
-{
-"text": "You wind up for a full Salome-hit, but a strange hand holds your wrist with considerable strength. You look back to see a man standing behind you.",
-"image": ["moondersGB.png", "8em"],
-"options1": [{"text" : "\"Hello there...\"", "link": "null"}, {"text" : "Splash him with the aloe.", "link": "null"}],
-"options2": [{"text" : "Kiss him.", "link": "null"}]
-}

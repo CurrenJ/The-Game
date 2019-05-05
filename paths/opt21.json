@@ -1,6 +1,0 @@
-{
-"text": ["He responds, still loudly, but obviously less intimidated upon hearing you speak:<br>\"Who are you? How did you get in here?\"", "1em"],
-"image": ["null", "0px"],
-"options1": [{"text" : "\"I... I don't know. I was on that computer and then...\"", "link": "opt22.json"}],
-"options2": []
-}

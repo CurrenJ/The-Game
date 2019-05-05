@@ -1,6 +1,0 @@
-{
-"text": ["You hover your hand above the fire and let the glittering embers hit it. A tingling sensation comes over your hand, and the pain from your previous burns subsides. In fact, the wounds have nearly disappeared. The fire goes out.", "1em"],
-"image": ["null", "0px"],
-"options1": [{"text" : "Explore the room further.", "link": "opt20.json"}],
-"options2": []
-}

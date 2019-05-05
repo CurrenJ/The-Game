@@ -1,6 +1,0 @@
-{
-"text": ["You put your burnt hand back into the fire and it now begins to burn on its own. You dance around the room in pain as your crispy hand continues to burn.", "1em"],
-"image": ["null", "0px"],
-"options1": [{"text" : "Suffer.", "link": "opt26.json"}],
-"options2": []
-}
